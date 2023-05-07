@@ -3,9 +3,9 @@
 **Spotify Cover Arts Analysis**
 
 The aim of this project was:
-* To investigate whether there are any patterns in the use of different colors in the covers of music releases depending on their genre;
-* To determine the most common color scheme for the covers;
-* To explore whether there is a correlation between the color used in the cover and the musical characteristics of the release;
+* To investigate whether there are any patterns in the use of different colors in the cover arts of music releases depending on their genre;
+* To determine the most common color scheme for the cover arts;
+* To explore whether there is a correlation between the color used in the cover art and the musical characteristics of the release;
 * To identify any trends in the use of colors over time and how they have changed.
 
 All data was retrieved from Spotify Web API using Spotipy library: https://spotipy.readthedocs.io/en/2.22.1/
